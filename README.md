@@ -1,0 +1,2 @@
+# latihansaja
+belajar git pertama
